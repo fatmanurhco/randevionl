@@ -40,7 +40,6 @@ export default function App()
     <div className="container">
       <div className="hero">
         <h2>TÜRKİYE’NİN <span>EN İŞLEK DÜKKANI</span></h2>
-        {/* <img className='yazi' src={yazi} alt="" /> */}
        <h1>ÇOK YAKINDA BURADA</h1> 
        <img src={logorsp} alt="" className='logorsp'  />
       <img src={logo} alt="" className='rsp'/>
